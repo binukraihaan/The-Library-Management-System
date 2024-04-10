@@ -43,7 +43,7 @@ From Our System we have provided the special feature for users which is Barcode 
  - To deploy **Libraria**, run
 
 ```bash
- gh repo clone devkingsDevs/Libraria---The-Library-Management-System
+ gh repo clone gh repo clone binukraihaan/The-Library-Management-System
 ```
  - Navigate to Project Directory: 
  ```
