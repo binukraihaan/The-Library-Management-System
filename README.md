@@ -58,21 +58,21 @@ From Our System we have provided the special feature for users which is Barcode 
 ## Screenshots
 
  - Main View 
-![App Screenshot](https://github.com/devkingsDevs/Libraria---The-Library-Management-System/blob/main/images/ss/main_view.jpg)
+![App Screenshot](https://github.com/binukraihaan/The-Library-Management-System/blob/main/images/ss/main_view.jpg?raw=true)
  - Admin Dashboard
-![App Screenshot](https://github.com/devkingsDevs/Libraria---The-Library-Management-System/blob/main/images/ss/main_dashboard.jpg?raw=true)
+![App Screenshot](https://github.com/binukraihaan/The-Library-Management-System/blob/main/images/ss/main_dashboard.jpg?raw=true)
 
  - Books Catalog 
-![App Screenshot](https://github.com/devkingsDevs/Libraria---The-Library-Management-System/blob/main/images/ss/books.jpg?raw=true)
+![App Screenshot](https://raw.githubusercontent.com/binukraihaan/The-Library-Management-System/main/images/ss/books.jpg)
 
  - Borrowing Section 
-![App Screenshot](https://github.com/devkingsDevs/Libraria---The-Library-Management-System/blob/main/images/ss/borrow.jpg?raw=true)
+![App Screenshot](https://github.com/binukraihaan/The-Library-Management-System/blob/main/images/ss/borrow.jpg?raw=true)
 
  - Returning Section 
-![App Screenshot](https://github.com/devkingsDevs/Libraria---The-Library-Management-System/blob/main/images/ss/return.jpg?raw=true)
+![App Screenshot](https://github.com/binukraihaan/The-Library-Management-System/blob/main/images/ss/return.jpg?raw=true)
 
  - Unique Barcode Generation
- ![App Screenshot](https://github.com/devkingsDevs/Libraria---The-Library-Management-System/blob/main/images/ss/generate_barcode.jpg?raw=true)
+ ![App Screenshot](https://github.com/binukraihaan/The-Library-Management-System/blob/main/images/ss/generate_barcode.jpg?raw=true)
 
 An explanation video footage will be available soon.
 
