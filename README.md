@@ -50,7 +50,7 @@ From Our System we have provided the special feature for users which is Barcode 
  cd library-management-system
  ```
  - Import Database:
- Import the provided SQL file ```db.sql``` into your MySQL database.
+ Import the provided SQL file ```libsystem.sql``` into your MySQL database.
   - Configuration: 
   Update the database connection settings in both ```includes/conn.php``` and ```admin/includes/conn.php``` files.
    - Run the Application: 
